@@ -1,5 +1,5 @@
--- Scratracter --
-   How to use
+# -- Scratracter --
+# How to use
 Put your SB3 file in the SB3 Folder
 Run the EXE
 Type in the files name then click Convert.
