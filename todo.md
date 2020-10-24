@@ -2,3 +2,4 @@
 - [ ] Recent List 
 - [ ] ZIP to SB3, SB2, or SB Compiler 
 - [ ] File Selector instead of inputing the file name.
+- [ ] Auto-zip Extractor
